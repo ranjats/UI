@@ -1,0 +1,17 @@
+
+
+npm install react-native-material-cards
+npm install @material-ui/icons
+npm install @material-ui/core
+npm install --save react-native-simple-card-view
+npm install react-navigation-drawer --save
+npm install react-native-reanimated --save
+npm install react-native-material-menu --save
+npm install deprecated-react-native-listview
+npm install react-native-custom-radio-group --save
+
+
+select (BANGALORE)=>  id:1-  Ground Floor
+					  id:2-  First Floor			
+					  id:3-  Second Floor
+					  id:4-  (Training Room 1, Training Room 2, Choupal)
